@@ -71,7 +71,7 @@ The model adopts an MoE language model, a native-resolution visual encoder (Moon
 ### Hugging Face Demo
 
 > 🤗 We serve our model demo in Hugging Face spaces:
-> - Chat with **Kimi-VL-A3B-Thinking-2506**👀🤔🗺️🎬📖🖥️ (*unifying thinking, general understanding, puzzle solving, agent, video, PDF*) model on <a href="https://huggingface.co/spaces/moonshotai/Kimi-VL-A3B-Thinking/">Chat Web</a>.
+> - Chat with **Kimi-VL-A3B-Thinking-2506**👀🤔🖼️🎬📖🖥️ (*unifying thinking, general understanding, puzzle solving, agent, video, PDF*) model on <a href="https://huggingface.co/spaces/moonshotai/Kimi-VL-A3B-Thinking/">Chat Web</a>.
 
 ## 5. Performance
 
@@ -310,3 +310,7 @@ print(completion.choices[0].message)
 }
 ```
 
+
+1. related project [DeepSeek-VL2](https://github.com/deepseek-ai/DeepSeek-VL2)
+2. related project [Aria](https://github.com/rhymes-ai/Aria)
+3. related project [Qwen3-VL](https://github.com/QwenLM/Qwen3-VL)
